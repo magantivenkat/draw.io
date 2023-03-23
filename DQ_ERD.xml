@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T19:03:01.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JdMqVR8naX7qa2FT5fRc" version="21.0.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-23T19:07:55.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SlhVHn0xNcCUqCc1a3uU" version="21.0.10" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1588" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -351,6 +351,12 @@
         </mxCell>
         <mxCell id="vGSZ8AVJ1i9hqiXqaJ7H-17" value="DATA LAKE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="422" y="88" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vGSZ8AVJ1i9hqiXqaJ7H-20" value="GLUE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="161.25" width="52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vGSZ8AVJ1i9hqiXqaJ7H-21" value="GLUE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="161.25" width="52" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vGSZ8AVJ1i9hqiXqaJ7H-18" value="DELTA LAKE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="226" y="275" width="104" height="30" as="geometry" />
