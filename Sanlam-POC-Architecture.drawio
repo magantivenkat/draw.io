@@ -28,6 +28,14 @@
         <mxCell id="0bicRO9uej9v1Uf7F0h8-57" value="Sales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="494.00000000000006" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0bicRO9uej9v1Uf7F0h8-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0bicRO9uej9v1Uf7F0h8-59" target="0bicRO9uej9v1Uf7F0h8-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="580" />
+              <mxPoint x="530" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0bicRO9uej9v1Uf7F0h8-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="360" width="150" height="440" as="geometry" />
         </mxCell>
@@ -159,6 +167,27 @@
         </mxCell>
         <mxCell id="0bicRO9uej9v1Uf7F0h8-102" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;COMSUMPTION&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="301" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bicRO9uej9v1Uf7F0h8-107" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.023;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="580" as="sourcePoint" />
+            <mxPoint x="1240.0000000000002" y="579.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0bicRO9uej9v1Uf7F0h8-108" value="Snowflake" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="402.33" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bicRO9uej9v1Uf7F0h8-109" value="Sagemaker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1279" y="475.63" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bicRO9uej9v1Uf7F0h8-110" value="Databricks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="556" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bicRO9uej9v1Uf7F0h8-111" value="Athena" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="638.63" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0bicRO9uej9v1Uf7F0h8-112" value="Redshift" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1279" y="721.37" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
